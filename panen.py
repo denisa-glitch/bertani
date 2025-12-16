@@ -49,4 +49,5 @@ for lokasi, hasil in data_panen.items():
         print(lokasi, "kondisi baik")
 
 
-print(edit aja)
+print("edit aja")
+print("EDIT LAGI BRUH")
