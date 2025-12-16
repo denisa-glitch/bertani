@@ -47,3 +47,6 @@ for lokasi, hasil in data_panen.items():
         print(lokasi, "perlu perhatian khusus")
     else:
         print(lokasi, "kondisi baik")
+
+
+print(edit aja)
